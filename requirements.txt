@@ -1,0 +1,13 @@
+huggingface_hub==0.25.2
+gradio>=3.15
+PyMuPDF
+sentence-transformers
+scikit-learn
+langchain
+requests
+faiss-cpu
+transformers
+groq
+python-dotenv
+numpy
+
